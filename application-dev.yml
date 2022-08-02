@@ -2,7 +2,7 @@ server:
   port: 3355
 spring:
   application:
-    name: config-client
+    name: abababa
   cloud:
     #Config客户端配置
     config:
