@@ -2,7 +2,7 @@ server:
   port: 3355
 spring:
   application:
-    name: abababa
+    name: 123456
   cloud:
     #Config客户端配置
     config:
